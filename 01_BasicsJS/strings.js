@@ -22,4 +22,8 @@ const newStringOne = "   Aditya   "
 
 // console.log(newStringOne);
 // console.log(newStringOne.trim());
+
+const anotherstringTwo = "    Baheti     "
+console.log(anotherstringTwo)
+
  
