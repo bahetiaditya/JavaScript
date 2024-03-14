@@ -35,7 +35,7 @@ buttons.forEach(function (button) {
 
 ```
 
-## project 2 solution
+## project 2
 
 ```javascript
 const form = document.querySelector('form');
@@ -63,7 +63,7 @@ form.addEventListener('submit', function (e) {
 
 ```
 
-## project 3 solution code
+## project 3
 
 ```javascript
 const clock = document.getElementById('clock');
@@ -78,7 +78,7 @@ setInterval(function () {
 
 ```
 
-## project 4 solution
+## project 4 
 
 
 ```javascript
@@ -179,7 +179,7 @@ function newGame() {
 ```
 
 
-# Project 5 solution
+# Project 5
 
 ```javascript
 const insert = document.getElementById('insert');
@@ -207,7 +207,7 @@ window.addEventListener('keydown', (e) => {
 
 ```
 
-# Project 6 Solution
+# Project 6
 
 ```javascript
 //generate a random color
