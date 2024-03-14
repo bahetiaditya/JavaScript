@@ -1,14 +1,13 @@
 # Projects related to DOM
 
-## project link
-[Click here](index.html)
+
 
 # Solution code
 
 ## project 1
 
 ```javascript
-console.log("hitesh")
+console.log("Aditya")
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
